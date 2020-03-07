@@ -1,0 +1,11 @@
+###
+POST http://localhost:8090/user
+Content-Type: application/json
+
+{
+  "username": "test23233433",
+  "password": "super-secure-pw",
+  "nickname": "testnick"
+}
+
+###

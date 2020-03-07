@@ -1,0 +1,4 @@
+rootProject.name = 'msastudy-instagram'
+
+include 'account', 'core-api', 'account-query'
+
